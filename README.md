@@ -4,7 +4,7 @@ PREVIEW DESKTOP:
 
 PREVIEW MOBILE: 
 
-![Animação](https://user-images.githubusercontent.com/81590291/166122955-db3e454d-3ddd-44bb-abe4-a4f1e5bc612b.gif)
+![Animação](https://user-images.githubusercontent.com/81590291/166123402-83828819-871c-45ac-b58b-c45713c100cb.gif)
 
 
 
