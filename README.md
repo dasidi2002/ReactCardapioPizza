@@ -1,3 +1,14 @@
+PREVIEW DESKTOP:
+
+![Animação](https://user-images.githubusercontent.com/81590291/166122864-b6c3b9b8-8270-4477-86a1-dd7202f82aa5.gif)
+
+PREVIEW MOBILE: 
+
+![Animação](https://user-images.githubusercontent.com/81590291/166122955-db3e454d-3ddd-44bb-abe4-a4f1e5bc612b.gif)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
